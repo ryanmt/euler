@@ -1,5 +1,10 @@
 = euler_project
 
+This is the problem:  sum of all the multiples of 3 or 5 below 1000.
+
+problem 1
+
+
 Description goes here.
 
 == Contributing to euler_project
